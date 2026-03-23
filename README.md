@@ -1,2 +1,0 @@
-# anayasite
-👉 My first website
